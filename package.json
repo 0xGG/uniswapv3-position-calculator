@@ -43,5 +43,6 @@
   },
   "devDependencies": {
     "gh-pages": "^3.2.3"
-  }
+  },
+  "homepage": "https://0xgg.io/uniswapv3-position-calculator/"
 }
